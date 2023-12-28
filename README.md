@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C# and Unity
 - 📫 How to reach me efe.baydogan@outlook.com
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/efebydogan/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/efebydogan)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/efebaydogann/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/efebaydogann)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=efebaydogan&show_icons=true&theme=radical)
 
